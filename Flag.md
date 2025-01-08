@@ -1,0 +1,1 @@
+A flag is a value that acts as a signal for a function or process.

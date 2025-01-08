@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "1e4203d069b2d47c",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a8c16426df1ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a808ff1d999e995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Asset Recovery (DAR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d76619d3e2b9683",
+    "type": "split",
+    "children": [
+      {
+        "id": "f30f1bf8a975ce90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a23a1f1e8da512e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03edae320e81b2e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pushdata",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af6cb9cec84ef7d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2765950ecb34e176",
+    "type": "split",
+    "children": [
+      {
+        "id": "4abf53694fb220b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bfdcfdf3c885cde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Digital Asset Recovery (DAR).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c925c5fec9431bc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Asset Recovery (DAR).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81aa4c94576fd9e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9626cfc144731bb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Asset Recovery (DAR).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "4a808ff1d999e995",
+  "lastOpenFiles": [
+    "Digital Asset Recovery (DAR).md",
+    "Bitcoin Whitepaper.md",
+    "Whitepaper.md",
+    "Smart Contract.md",
+    "Smart_Contracts.md",
+    "Input.md",
+    "Inputs.md",
+    "Pay_to_Script_Hash.md",
+    "BSV Blockchain.md",
+    "BSV.md",
+    "Bitcoin SV.md",
+    "AML.md",
+    "UTXO set.md",
+    "UTXO_Set.md",
+    "Satoshis.md",
+    "satoshis (sats).md",
+    "P2P.md",
+    "SHA-256.md",
+    "SHA256.md",
+    "SIGHASH.md",
+    "Satoshi.md",
+    "Ultra_Small_World_Network.md",
+    "big number.md",
+    "Big Numbers.md",
+    "Peer-To-Peer_Protocol.md",
+    "Peer-to-Peer Protocol.md",
+    "Untitled.canvas",
+    "BSV-Second-Brain-Backup.bundle",
+    "BSV-Second-Brain-Backup.bundle.lock",
+    "bsv-skills-center/what-can-i-do",
+    "bsv-skills-center/protocol/transaction-lifecycle",
+    "bsv-skills-center/protocol",
+    "bsv-skills-center/process_single_file.sh",
+    "bsv-skills-center/process_md_with_gpt.sh",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/transactions/incoming_paymail_tx.jpg",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/transactions/incoming_external_paymail_tx.jpg",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/transactions/incoming_address_tx.jpg",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/engine/xpubs.png",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/engine/utxos.png",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/engine/transactions.png",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/engine/sync_transactions.png",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/engine/spv-wallet-db-diag.png",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/engine/paymails.png",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/engine/draft_transactions.png",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet-go-client/examples",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet-js-client/examples",
+    "bsv-skills-center/network-topology/applications/spv-wallet/developer-docs/spv-wallet/transactions",
+    "Education and Documentation/Untitled.canvas",
+    "Education and Documentation/Untitled 1.canvas",
+    "Untitled 1.canvas"
+  ]
+}
